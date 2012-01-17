@@ -6,11 +6,11 @@ use namespace::autoclean;
 
 extends 'Catalyst::Model::Factory::PerRequest';
 
-our $VERSION = '0.001';
+our $VERSION = '0.002';
 
 =head1 NAME
 
-Catalyst::Plugin::Model::WebService::MyGengo - Catalyst Model providing access to the L<WebService::MyGengo> library
+Catalyst::Model::WebService::MyGengo - Catalyst Model providing access to the L<WebService::MyGengo> library
 
 =head1 SYNOPSIS
 
